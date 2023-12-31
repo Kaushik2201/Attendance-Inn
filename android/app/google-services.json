@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260721064297",
+    "project_id": "attendance-inn",
+    "storage_bucket": "attendance-inn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260721064297:android:4b3b2f45eb0c70c35b65f8",
+        "android_client_info": {
+          "package_name": "com.example.attendance_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnuRiztHm1FGzvCJSBaHlZgzenZa4oLBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
